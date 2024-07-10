@@ -1,0 +1,5 @@
+English Explanation
+A single thread cannot handle multiple tasks simultaneously because it can only execute one instruction at a time within a single path of execution.
+
+Hindi Explanation
+एक सिंगल थ्रेड एक साथ कई कार्य नहीं कर सकता क्योंकि यह एक समय में केवल एक निर्देश को एकल निष्पादन पथ के भीतर निष्पादित कर सकता है।

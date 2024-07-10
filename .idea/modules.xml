@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MultiThreading.iml" filepath="$PROJECT_DIR$/.idea/MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiple_task_from_multiple_thread/multiple_task_from_multiple_thread.iml" filepath="$PROJECT_DIR$/multiple_task_from_multiple_thread/multiple_task_from_multiple_thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiple_task_from_single_thread/multiple_task_from_single_thread.iml" filepath="$PROJECT_DIR$/multiple_task_from_single_thread/multiple_task_from_single_thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single_task_from_multiple_thread/single_task_from_multiple_thread.iml" filepath="$PROJECT_DIR$/single_task_from_multiple_thread/single_task_from_multiple_thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single_task_from_single_thread/single_task_from_single_thread.iml" filepath="$PROJECT_DIR$/single_task_from_single_thread/single_task_from_single_thread.iml" />
+    </modules>
+  </component>
+</project>
